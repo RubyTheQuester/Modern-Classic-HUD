@@ -1,6 +1,8 @@
 # Descrption
 The source of Modern Classic UI, a remix of ModernUI designed to fit with the original artstyle of VotV but adding more info, context, and customizability.
-
+## Previews
+![Preview](https://github.com/RubyTheQuester/Modern-Classic-HUD/blob/main/Source%20Images/Example%202.png?raw=true)
+![Preview](https://github.com/RubyTheQuester/Modern-Classic-HUD/blob/main/Source%20Images/Example%201.png?raw=true)
 ## Features
 ### Current Features
 - Displays the day number.
