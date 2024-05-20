@@ -1,6 +1,6 @@
 # Descrption
 A remix of ModernUI designed to fit with the original artstyle of VotV but adding more info, context, and customizability.
-- Made for VotV 0.7.0b3
+- Made for VotV 0.7.0b3/pa07_0011
 
 ## Previews
 ![Preview](https://github.com/RubyTheQuester/Modern-Classic-HUD/blob/main/Source%20Images/Example%202.png?raw=true)
