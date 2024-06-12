@@ -1,6 +1,8 @@
 # Descrption
 A remix of ModernUI designed to fit with the original artstyle of VotV but adding more info, context, and customizability.
+
 - Made for VotV 0.7.0b3/pa07_0011
+- Updated to work with Voidmod 2.0.0
 
 ## Previews
 ![Preview](https://github.com/RubyTheQuester/Modern-Classic-HUD/blob/main/Source%20Images/Example%202.png?raw=true)
@@ -12,7 +14,7 @@ A remix of ModernUI designed to fit with the original artstyle of VotV but addin
 2) Click settings
 3) Click the "Browse profile folder" button
 4) Open the shimloader folder
-5) Open the cfg folder with a text editor
+5) Open the cfg file with a text editor
 
 ## Features ##
 - Turns downs the opacity of the top right corner, bottom left corner, and center of the HUD when interacting with things such as the console, the desktop computer, and the arcade machine
