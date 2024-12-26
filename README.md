@@ -1,8 +1,7 @@
 # Description
 A remix of ModernUI designed to fit with the original artstyle of VotV but adding more info, context, and customizability.
 
-- Made for VotV 0.7.0b3/pa07_0011
-- Updated to work with Voidmod 2.0.0
+- Updated to work with Voidmod 2.1.0
 
 ## Previews
 ![Preview](https://github.com/RubyTheQuester/Modern-Classic-HUD/blob/main/Source%20Images/Example%202.png?raw=true)
@@ -28,12 +27,10 @@ A remix of ModernUI designed to fit with the original artstyle of VotV but addin
 - Health
 - Current movement speed
 - Current inventory volume
-- Current sv.target Target
+- Current sv.target target text
 
-## Planned Features ##
-- Ability to place elemets whenever you want.
-- Elements will automaticly move to a different position if one is disabled (if not using custom placement)
-- Custom hotbar.
+## Known Bugs ##
+- Current sv.target target text does not change if one uses pos.target
 
 ## Compatiblities ##
 - [Gato's WeatherOverhaul](https://thunderstore.io/c/voices-of-the-void/p/Gatohost/WeatherOverhaul/)
@@ -49,3 +46,5 @@ Extract  `ClassicUI.pak ` from the pak folder into ` <Game Directory>\VotV\Conte
 - Orignal mod base, Matteo
 - VoidMod creation, Gato
 - Food icon, Death-Tinkerer
+- Additional bugfixing and optimizations, Questwalker
+
